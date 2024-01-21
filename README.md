@@ -7,3 +7,5 @@ Tableau helps people and organizations be more data-driven
 
 
 Tableau disrupted business intelligence with intuitive, visual analytics for everyone
+
+## About the Titanic Dataset
